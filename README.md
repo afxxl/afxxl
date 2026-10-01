@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Afsal 👋
+# Hi there, I'm Afsal 👋
 
 <div align="left">
   <h3>Full-Stack Software Engineer | Navigating AI & Data Science</h3>
